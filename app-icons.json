@@ -1,0 +1,19 @@
+{
+    "firefox": "firefox",
+    "chromium-browser": "chrome",
+    "chrome": "chrome",
+    "google-chrome": "chrome",
+    "URxvt": "terminal",
+    "qutebrowser": "globe",
+    "steam": "steam",
+    "steam-runtime": "steam",
+    "godot": "cogs",
+    "discord": "discord",
+    "telegram": "telegram",
+    "thunderbird": "envelope",
+    "jetbrains-idea-ce": "edit",
+    "nautilus": "folder-open",
+    "clementine": "music",
+    "mpv": "play",
+    "signal": "comment"
+}
