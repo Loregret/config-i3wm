@@ -15,5 +15,6 @@
     "nautilus": "folder-open",
     "clementine": "music",
     "mpv": "play",
-    "signal": "comment"
+    "signal": "comment",
+    "palemoon-bin": "chrome"
 }
